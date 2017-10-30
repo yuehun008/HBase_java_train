@@ -1,0 +1,68 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>HBase_java_train</groupId>
+    <artifactId>wxk</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <name>wxk</name>
+    <url>http://maven.apache.org</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <hadoop.version>2.6.0-cdh5.7.0</hadoop.version>
+        <hive.version>1.1.0-cdh5.7.0</hive.version>
+    </properties>
+
+    <repositories>
+        <repository>
+            <id>cloudera</id>
+            <url>https://repository.cloudera.com/artifactory/cloudera-repos</url>
+        </repository>
+    </repositories>
+    <pluginRepositories>
+
+        <pluginRepository>
+            <id>jeesite-repos</id>
+            <name>Jeesite Repository</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+        </pluginRepository>
+
+    </pluginRepositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.hadoop</groupId>
+            <artifactId>hadoop-common</artifactId>
+            <version>${hadoop.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.hive</groupId>
+            <artifactId>hive-exec</artifactId>
+            <version>${hive.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.28</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jvnet.hudson</groupId>
+            <artifactId>ganymed-ssh2</artifactId>
+            <version>build210-hudson-1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.hbase</groupId>
+            <artifactId>hbase-client</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+
+
+    </dependencies>
+</project>
