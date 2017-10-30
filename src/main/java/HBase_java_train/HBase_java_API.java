@@ -303,5 +303,6 @@ public class HBase_java_API {
 
     }
 //测试一下git是否有效！
+    //再次测试！！！
 
 }
