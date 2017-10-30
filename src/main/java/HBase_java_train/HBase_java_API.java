@@ -302,9 +302,6 @@ public class HBase_java_API {
 
 
     }
-
-    /**
-     * 下面是原始编写，不用看
-     */
+//测试一下git是否有效！
 
 }
