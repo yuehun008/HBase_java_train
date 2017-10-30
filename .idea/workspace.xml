@@ -26,10 +26,9 @@
       <file leaf-file-name="HBase_java_API.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HBase_java_train/HBase_java_API.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7061">
-              <caret line="307" column="7" lean-forward="false" selection-start-line="307" selection-start-column="7" selection-end-line="307" selection-end-column="7" />
+            <state relative-caret-position="230">
+              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#6893#6894#0" expanded="true" />
                 <element signature="e#6950#6951#0" expanded="true" />
               </folding>
@@ -50,6 +49,11 @@
     <findStrings>
       <find>java</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="FORCE_PUSH_ALLOWED" value="false" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -91,7 +95,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="203" />
     <option name="y" value="102" />
     <option name="width" value="1487" />
@@ -113,6 +117,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -172,7 +177,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -314,15 +319,15 @@
       <option name="presentableId" value="Default" />
       <updated>1509261755052</updated>
       <workItem from="1509261758930" duration="14271000" />
-      <workItem from="1509325118312" duration="6083000" />
+      <workItem from="1509325118312" duration="6284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20354000" />
+    <option name="totallyTimeSpent" value="20555000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="203" y="102" width="1487" height="902" extended-state="1" />
+    <frame x="203" y="102" width="1487" height="902" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -361,6 +366,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -381,7 +391,6 @@
         <state relative-caret-position="276">
           <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#6893#6894#0" expanded="true" />
             <element signature="e#6950#6951#0" expanded="true" />
           </folding>
@@ -448,10 +457,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HBase_java_train/HBase_java_API.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7061">
-          <caret line="307" column="7" lean-forward="false" selection-start-line="307" selection-start-column="7" selection-end-line="307" selection-end-column="7" />
+        <state relative-caret-position="230">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#6893#6894#0" expanded="true" />
             <element signature="e#6950#6951#0" expanded="true" />
           </folding>
